@@ -1,6 +1,6 @@
 {
   "name": "dva",
-  "version": "2.0.3",
+  "version": "2.1.0-beta.3",
   "description": "React and redux based, lightweight and elm-style framework.",
   "repository": {
     "type": "git",
@@ -41,7 +41,7 @@
     "react-async-component": "^1.0.0-beta.3",
     "react-redux": "^5.0.5",
     "react-router-dom": "^4.1.2",
-    "react-router-redux": "^5.0.0-alpha.6",
+    "react-router-redux": "5.0.0-alpha.6",
     "redux": "^3.7.2"
   },
   "peerDependencies": {
